@@ -20,7 +20,7 @@ Telepathy: https://github.com/vis2k/Telepathy
 Fleck: https://github.com/statianzo/Fleck
 
 ##### 序列化
-MessagePack-CSharp（注：对IL2CPP和.Net Standard2.0支持不友好）: https://github.com/neuecc/MessagePack-CSharp
+Protobuf：https://github.com/protocolbuffers/protobuf
 
 ##### ORM
 FreeSql: https://github.com/dotnetcore/FreeSql
