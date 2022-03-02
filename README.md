@@ -20,22 +20,22 @@ Telepathy: https://github.com/vis2k/Telepathy
 Fleck: https://github.com/statianzo/Fleck
 
 ##### 序列化
-Protobuf：https://github.com/protocolbuffers/protobuf
+JackBuffer：https://github.com/chenwansal/JackFrame
 
 ##### ORM
 FreeSql: https://github.com/dotnetcore/FreeSql
 
 ##### 输入控制器
-Rewired: https://guavaman.com/projects/rewired/
+InputSystem: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html
 
 ##### 模板管理
-JackFrame: (暂未公开)
+JackFrame: https://github.com/chenwansal/JackFrame
 
 ##### 日志管理
-JackFrame: (暂未公开)
+JackFrame: https://github.com/chenwansal/JackFrame
 
 ##### UI底层
-JackFrame: (暂未公开)
+JackFrame: https://github.com/chenwansal/JackFrame
 
 ##### 类扩展
-JackFrame: (暂未公开)
+JackFrame: https://github.com/chenwansal/JackFrame
