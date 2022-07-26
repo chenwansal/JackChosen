@@ -1,9 +1,6 @@
 # JackChosen
 这是我个人的Unity/C#技术选型，后续会慢慢新增/调整，但大概率会一直使用。
 
-##### 网络同步
-Mirror: https://github.com/vis2k/Mirror
-
 ##### 编辑器多开
 ParrelSync: https://github.com/VeriorPies/ParrelSync
 
